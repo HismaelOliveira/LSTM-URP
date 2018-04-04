@@ -1,5 +1,4 @@
-#LSTM to Usage Related Post
-LSTM model applied to classification a URP sentence
+# LSTM to Usage Related Post
 
 This repository contains the LSTM to usage related post. An usage related post is an concept of HCI that refers usage iformations about the system.
 <br/>
